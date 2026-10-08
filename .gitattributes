@@ -1,0 +1,9 @@
+# Large course scene datasets and original documents are archival binary assets.
+*.par binary
+*.pdf binary
+*.png binary
+*.jpg binary
+*.xlsx binary
+*.pptx binary
+render_ref binary
+cudaScan_ref binary
