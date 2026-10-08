@@ -142,577 +142,577 @@
     "sha256": "b1f4b7b6cd5f367ed59765913f75256bbb89c73d0734af9313329b4275e1bddd"
   },
   {
-    "path": "course-support/pthreads/mat_vect_mult.c",
+    "path": "assignments/reference-pthreads-examples/support/mat_vect_mult.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "f6561eac75f4b8a25feef2dfeed23c35f7cd706d0600cd40af26cd11fb0fa87e"
   },
   {
-    "path": "course-support/pthreads/my_rand.c",
+    "path": "assignments/reference-pthreads-examples/support/my_rand.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "84f8671be538c51592bbd5ec484734f4bf44a42a69054b8585b4c7f644528532"
   },
   {
-    "path": "course-support/pthreads/pth_msg.c",
+    "path": "assignments/reference-pthreads-examples/support/pth_msg.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "b1ffb8185112ff3d3436a8a07df5430a37fc6f4f3dd24f1440d2fa9cbfd98c4a"
   },
   {
-    "path": "course-support/pthreads/pth_ll_one_mut.c",
+    "path": "assignments/reference-pthreads-examples/support/pth_ll_one_mut.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "719bbd96fb034fbaed301132595b025e60b46f3e600f4402ba850ec9baf12750"
   },
   {
-    "path": "course-support/pthreads/pth_tokenize.c",
+    "path": "assignments/reference-pthreads-examples/support/pth_tokenize.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "aa08a63452a699ff2c636f1f073ef6d6cd8e793eabb3a6727b8481eae79a3c6d"
   },
   {
-    "path": "course-support/pthreads/pth_msg_sem.c",
+    "path": "assignments/reference-pthreads-examples/support/pth_msg_sem.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "d76432dd0290ae2b3d47ad521db9f4c6acb500992fb2a6ed70835377031e0fa5"
   },
   {
-    "path": "course-support/pthreads/pth_msg_sem_mac.c",
+    "path": "assignments/reference-pthreads-examples/support/pth_msg_sem_mac.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "03d3731d8bb52dac9353d045b7ec8a30e50de4221e95d38b6ee42dfdc913e31c"
   },
   {
-    "path": "course-support/pthreads/timer.h",
+    "path": "assignments/reference-pthreads-examples/support/timer.h",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "84b40d184139ed242023260c5e885855281fa4d653002a5e62a09a590805920a"
   },
   {
-    "path": "course-support/pthreads/pth_pi_mutex.c",
+    "path": "assignments/reference-pthreads-examples/support/pth_pi_mutex.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "e3f94bd71fcbac1777a114f66f1ff6ad90d4764089f02560242bb073782fb05d"
   },
   {
-    "path": "course-support/pthreads/pth_tokenize_r.c",
+    "path": "assignments/reference-pthreads-examples/support/pth_tokenize_r.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "4dc4857151b527de13f7bd3a08623ad0afca6bb0fc8f9501fa2a5a8e2450f3d0"
   },
   {
-    "path": "course-support/pthreads/pth_sem_bar.c",
+    "path": "assignments/reference-pthreads-examples/support/pth_sem_bar.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "c8d12c1aaa4f284b1a8f787a649a8c3de1b37584a3114a9968608797dcec28aa"
   },
   {
-    "path": "course-support/pthreads/pth_pi_busy2.c",
+    "path": "assignments/reference-pthreads-examples/support/pth_pi_busy2.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "fcdcecb9c2f79a5b4ceb00fe5016954778fab1f5ae2f31cad21d5127485ea0bf"
   },
   {
-    "path": "course-support/pthreads/pth_mat_vect.c",
+    "path": "assignments/reference-pthreads-examples/support/pth_mat_vect.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "552f7098a98227abb9b702c5cb7636c0d42f3de888e1e089fd817305fe2985fe"
   },
   {
-    "path": "course-support/pthreads/linked_list.c",
+    "path": "assignments/reference-pthreads-examples/support/linked_list.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "a0d2e691ac834d06a601319bc5acccda290f52b4ac6ba83ff3350b4bebf44697"
   },
   {
-    "path": "course-support/pthreads/pth_ll_rwl.c",
+    "path": "assignments/reference-pthreads-examples/support/pth_ll_rwl.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "3288ed56719dc19c5870cf62bd072c44d479793eed172e0f8ba10fe607473181"
   },
   {
-    "path": "course-support/pthreads/pth_do_nothing.c",
+    "path": "assignments/reference-pthreads-examples/support/pth_do_nothing.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "496657451ef5cba64cb741bb1e661dd0d399bd779165b133f6a9456e9c5d1042"
   },
   {
-    "path": "course-support/pthreads/pth_pi.c",
+    "path": "assignments/reference-pthreads-examples/support/pth_pi.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "ebce5edff0503df1d4862600e130b3501e4c0ee35d03cc766f0a80dfb486c40e"
   },
   {
-    "path": "course-support/pthreads/pth_busy_bar.c",
+    "path": "assignments/reference-pthreads-examples/support/pth_busy_bar.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "490f2a8efba50efb2bdadc758e836bb445fb2ec1a82760592d052b17d059b4f8"
   },
   {
-    "path": "course-support/pthreads/pth_mat_vect_rand_split.c",
+    "path": "assignments/reference-pthreads-examples/support/pth_mat_vect_rand_split.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "031d3920c6b616e488da82ceab361529f9c48556585d4851eef5a7a55585c634"
   },
   {
-    "path": "course-support/pthreads/pth_ll_mult_mut.c",
+    "path": "assignments/reference-pthreads-examples/support/pth_ll_mult_mut.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "8107870965eb99b0426e8c456828666ecea2af59a9554a8fe6a765445190db16"
   },
   {
-    "path": "course-support/pthreads/my_rand.h",
+    "path": "assignments/reference-pthreads-examples/support/my_rand.h",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "80f27dc65b4941eb311f4836002a4f91d012f03165e6a4929eb90d9b7b91081b"
   },
   {
-    "path": "course-support/pthreads/pth_hello.c",
+    "path": "assignments/reference-pthreads-examples/support/pth_hello.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "6cd028aa4ea83bda2ac7c6c8a0d014163ac81b78a699b4bd253c727c04f2b46e"
   },
   {
-    "path": "course-support/pthreads/pth_cond_bar.c",
+    "path": "assignments/reference-pthreads-examples/support/pth_cond_bar.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "f59388e7d11090cb5e4e1da10e620b4636ae3b0dbdbbfd90573dcbe179571a7f"
   },
   {
-    "path": "course-support/pthreads/pth_pi_busy1.c",
+    "path": "assignments/reference-pthreads-examples/support/pth_pi_busy1.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "e522493239dca7c310520afdc1c94c22d7d251a7b234156a25c4ef26d7b1eb93"
   },
   {
-    "path": "course-support/openmp/omp_odd_even2.c",
+    "path": "assignments/reference-openmp-examples/support/omp_odd_even2.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "84b8ed2c40f2eb58201d6d683b798ffea1e3b6dca4d5c2a2cbab4461dc0c5d9b"
   },
   {
-    "path": "course-support/openmp/mat_vect_mult.c",
+    "path": "assignments/reference-openmp-examples/support/mat_vect_mult.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "f6561eac75f4b8a25feef2dfeed23c35f7cd706d0600cd40af26cd11fb0fa87e"
   },
   {
-    "path": "course-support/openmp/omp_mat_vect.c",
+    "path": "assignments/reference-openmp-examples/support/omp_mat_vect.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "bed0502a97c6a3889dd58014d8ec5394f57c28256f23272159d4942cbd09b5a5"
   },
   {
-    "path": "course-support/openmp/omp_fibo.c",
+    "path": "assignments/reference-openmp-examples/support/omp_fibo.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "53cb23ea051c6c9614757f227b2dbdc36ca07acea0d772ea4f1f994251b74e0f"
   },
   {
-    "path": "course-support/openmp/omp_mat_vect_rand_split.c",
+    "path": "assignments/reference-openmp-examples/support/omp_mat_vect_rand_split.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "74cdd24bddfa7ca813b922e4c0b0f03edb0f595e385c9deadcb1fb4d22084918"
   },
   {
-    "path": "course-support/openmp/omp_private.c",
+    "path": "assignments/reference-openmp-examples/support/omp_private.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "79ba64a33dce0f41154c9be658d92a052413e4a9bb5f1021a945c11a3a9973ce"
   },
   {
-    "path": "course-support/openmp/omp_hello.c",
+    "path": "assignments/reference-openmp-examples/support/omp_hello.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "b3121a7b80f1554d0cd8b333690eaceb552b6c66ba84128554cc55ccf402246a"
   },
   {
-    "path": "course-support/openmp/odd_even.c",
+    "path": "assignments/reference-openmp-examples/support/odd_even.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "29ea848c72744ea458cb46fb9f6854b4af82531d4273cd052123c6f3c72eedeb"
   },
   {
-    "path": "course-support/openmp/omp_trap1.c",
+    "path": "assignments/reference-openmp-examples/support/omp_trap1.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "806b73830bafb88f4e2efb55087adf0acc953080d4c8cf43c4897077eacf6d8a"
   },
   {
-    "path": "course-support/openmp/omp_odd_even1.c",
+    "path": "assignments/reference-openmp-examples/support/omp_odd_even1.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "86efea49c9a3f7b1b0a168f1d2ea76e352d3756da07d6f1020a324d6c34b2cba"
   },
   {
-    "path": "course-support/openmp/omp_pi.c",
+    "path": "assignments/reference-openmp-examples/support/omp_pi.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "93ca79d1310dea94f5aa7db56eacf094eb44612ea36a98b47aa91735b3ccf8da"
   },
   {
-    "path": "course-support/openmp/omp_sin_sum.c",
+    "path": "assignments/reference-openmp-examples/support/omp_sin_sum.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "5497fb71c522cbb24f3fb0127c6e4edf09e71a6a81486dfa9d11e9681194d7f9"
   },
   {
-    "path": "course-support/openmp/trap.c",
+    "path": "assignments/reference-openmp-examples/support/trap.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "40785666ae18796daa7a2907f57e9d06370d8824a75f997a92b90058345f5cbf"
   },
   {
-    "path": "course-support/openmp/omp_tokenize_r.c",
+    "path": "assignments/reference-openmp-examples/support/omp_tokenize_r.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "a9446fa504741ea33cedd81e16eefe45bf1d293a7312910d2319d52440d129e3"
   },
   {
-    "path": "course-support/openmp/omp_trap2b.c",
+    "path": "assignments/reference-openmp-examples/support/omp_trap2b.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "ab72b311507f4e9e0915ef2cedf9b1af67c2eebdecbee65c7ed6d769efff5617"
   },
   {
-    "path": "course-support/openmp/omp_tokenize.c",
+    "path": "assignments/reference-openmp-examples/support/omp_tokenize.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "7704c3caca2da7697a7740a4ffa2dd0ee5874ee4fbffb7bbd1a686de63e42e93"
   },
   {
-    "path": "course-support/openmp/omp_trap3.c",
+    "path": "assignments/reference-openmp-examples/support/omp_trap3.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "4e0ab592c92452a7cc18982016318e3d3ad463387d453e2182de9fc092b6a6a1"
   },
   {
-    "path": "course-support/openmp/bubble.c",
+    "path": "assignments/reference-openmp-examples/support/bubble.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "d22ae2989a72821815b68ec5c6eb2a64edd3586f5e0c0ef4e3c344e8af4b912c"
   },
   {
-    "path": "course-support/openmp/omp_hello_err_chk.c",
+    "path": "assignments/reference-openmp-examples/support/omp_hello_err_chk.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "d25150b1a70028b22cdc9e649ce9e51339a2ab9e4386bd369b79df5d8d8e335c"
   },
   {
-    "path": "course-support/openmp/omp_trap2a.c",
+    "path": "assignments/reference-openmp-examples/support/omp_trap2a.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "465072eef5868e444cc3309bc25c22bb87a7cb54d7583b6e1fa0e3d8789818e2"
   },
   {
-    "path": "course-support/openmp/omp_msg/omp_msgps.c",
+    "path": "assignments/reference-openmp-examples/support/omp_msg/omp_msgps.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "5ecb6f2d26b25eadccc9e80e9ee342e275ab0e651b0bb5f69d1e315996d90bbf"
   },
   {
-    "path": "course-support/openmp/omp_msg/omp_msglk.c",
+    "path": "assignments/reference-openmp-examples/support/omp_msg/omp_msglk.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "347c9811239ce503da48f38535bac9fe5b1f650a9d9dbe1ba7429c2cc781ac3c"
   },
   {
-    "path": "course-support/openmp/omp_msg/queue.c",
+    "path": "assignments/reference-openmp-examples/support/omp_msg/queue.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "f074d3e04085aebb974698fb8b614e6656d1ce866dd3789433c22c419557df51"
   },
   {
-    "path": "course-support/openmp/omp_msg/queue_lk.c",
+    "path": "assignments/reference-openmp-examples/support/omp_msg/queue_lk.c",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "8d06f69ff1c4c2148b2d95b8119f8ed18cb8305907db04bf43e2b1ba2cbb6b53"
   },
   {
-    "path": "course-support/openmp/omp_msg/queue_lk.h",
+    "path": "assignments/reference-openmp-examples/support/omp_msg/queue_lk.h",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "0e291e27225d509ac3d788ff864b729ddcc2f9e50dc37e57f01d73301e5cb6cb"
   },
   {
-    "path": "course-support/openmp/omp_msg/queue.h",
+    "path": "assignments/reference-openmp-examples/support/omp_msg/queue.h",
     "category": "provided-code",
     "origin": "Course/textbook example, not an original student project",
     "sha256": "8421dd1f6dc00bc2cd7110325cc724288dc1540e1e767c4a5936bbfbaf874f80"
   },
   {
-    "path": "course-support/mpi/bubble.c",
+    "path": "assignments/reference-mpi-examples/support/chapter3/bubble.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "d22ae2989a72821815b68ec5c6eb2a64edd3586f5e0c0ef4e3c344e8af4b912c"
   },
   {
-    "path": "course-support/mpi/mat_vect_mult.c",
+    "path": "assignments/reference-mpi-examples/support/chapter3/mat_vect_mult.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "f6561eac75f4b8a25feef2dfeed23c35f7cd706d0600cd40af26cd11fb0fa87e"
   },
   {
-    "path": "course-support/mpi/mpi_hello.c",
+    "path": "assignments/reference-mpi-examples/support/chapter3/mpi_hello.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "f422e0cfbdf89ab5efec5d703a5d0e679a5833c5e611aa2bb07f2cc4267c63a8"
   },
   {
-    "path": "course-support/mpi/mpi_many_msgs.c",
+    "path": "assignments/reference-mpi-examples/support/chapter3/mpi_many_msgs.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "05a2eda144949538fd9287d7ab340f173d39bb2e80365021f27fdfa695fb6bc5"
   },
   {
-    "path": "course-support/mpi/mpi_mat_vect_mult.c",
+    "path": "assignments/reference-mpi-examples/support/chapter3/mpi_mat_vect_mult.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "3d44a3c5759805a6ff589f7631f556260486ffa02377e86aa0edf02dffbe6922"
   },
   {
-    "path": "course-support/mpi/mpi_mat_vect_time.c",
+    "path": "assignments/reference-mpi-examples/support/chapter3/mpi_mat_vect_time.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "6c044118636ff64923ed56464d47c249acc8cdd7278baa4ca6ca802db1de1bac"
   },
   {
-    "path": "course-support/mpi/mpi_odd_even.c",
+    "path": "assignments/reference-mpi-examples/support/chapter3/mpi_odd_even.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "bfce9a243e095cdc1e2578159b42728e3a4977a7b82dbe63ced203f5ffd1cbc8"
   },
   {
-    "path": "course-support/mpi/mpi_output.c",
+    "path": "assignments/reference-mpi-examples/support/chapter3/mpi_output.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "e0857041552993e560f8504d3b4d2405c1c1b8df190884af38e913371271ad15"
   },
   {
-    "path": "course-support/mpi/mpi_trap1.c",
+    "path": "assignments/reference-mpi-examples/support/chapter3/mpi_trap1.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "6309f7339ea178b17f3f850ae796b652165a1d7a4b6782b9f163c0299c9ebf9b"
   },
   {
-    "path": "course-support/mpi/mpi_trap2.c",
+    "path": "assignments/reference-mpi-examples/support/chapter3/mpi_trap2.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "22e370d334581a302953600337e01b8da90358b9c373e922a154aeb8f061cc17"
   },
   {
-    "path": "course-support/mpi/mpi_trap3.c",
+    "path": "assignments/reference-mpi-examples/support/chapter3/mpi_trap3.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "ad624aff4d93d8b7f230abb7481354a72602d96f6f0abb7c0cd3e6da4721eb17"
   },
   {
-    "path": "course-support/mpi/mpi_trap4.c",
+    "path": "assignments/reference-mpi-examples/support/chapter3/mpi_trap4.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "f89c723070b330e8c1d27a5b022b3c36f60bc7fd24de48ee4102209ada1631cb"
   },
   {
-    "path": "course-support/mpi/mpi_vector_add.c",
+    "path": "assignments/reference-mpi-examples/support/chapter3/mpi_vector_add.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "9477c0a585ba0d00f317d90bf9a80da8b6459096e72d5fd71f8f1de243f78e5e"
   },
   {
-    "path": "course-support/mpi/odd_even.c",
+    "path": "assignments/reference-mpi-examples/support/chapter3/odd_even.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "29ea848c72744ea458cb46fb9f6854b4af82531d4273cd052123c6f3c72eedeb"
   },
   {
-    "path": "course-support/mpi/timer.h",
+    "path": "assignments/reference-mpi-examples/support/chapter3/timer.h",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "27cf06f40f233a02d6d531f8be4d70f3155192b2c2220fe692ea7c88cc4c6d5f"
   },
   {
-    "path": "course-support/mpi/trap.c",
+    "path": "assignments/reference-mpi-examples/support/chapter3/trap.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "40785666ae18796daa7a2907f57e9d06370d8824a75f997a92b90058345f5cbf"
   },
   {
-    "path": "course-support/mpi/vector_add.c",
+    "path": "assignments/reference-mpi-examples/support/chapter3/vector_add.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "81a28d37799aecd9466ac4f55ca3a28e7e2b311afb944f0e5e76097ea8f38cd7"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/cyclic_derived.c",
+    "path": "assignments/reference-tsp-nbody/support/cyclic_derived.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "a1644dd5ecbf748ccafce5c50b87cad91cb5c568cabf6de8f52ce394d8c4946a"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/frac.c",
+    "path": "assignments/reference-tsp-nbody/support/frac.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "9cf842db3c348d0ab2282775aa4952adafc8172d833c16aa94c03145fff5bfef"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/frac.h",
+    "path": "assignments/reference-tsp-nbody/support/frac.h",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "ee0001b6906b28733e4e5b8751d9fc596e9f1e67a05d2c5e6d28903e131943ae"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/mpi_nbody_basic.c",
+    "path": "assignments/reference-tsp-nbody/support/mpi_nbody_basic.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "78f47c84a970951ff0af1a226f7b1f388e3513b6f80f06cc6e2ba05db020881e"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/mpi_nbody_red.c",
+    "path": "assignments/reference-tsp-nbody/support/mpi_nbody_red.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "43ab2ddf40d758bc1d35d261f26d62de81facfb1b17197c8ad5946a68a49e33c"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/mpi_tsp_dyn.c",
+    "path": "assignments/reference-tsp-nbody/support/mpi_tsp_dyn.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "ead394c404950ec486269686d5088d34db6f704bb975c42e63798c340ba5b0ae"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/mpi_tsp_stat.c",
+    "path": "assignments/reference-tsp-nbody/support/mpi_tsp_stat.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "28f3fe5b8002c9b861b864338eb845f07590e74c474ebdfe4c13ffb80f79e8a5"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/nbody_basic.c",
+    "path": "assignments/reference-tsp-nbody/support/nbody_basic.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "e63d9a7cfa094c7fd613285c67ca262df010a8dcce8520b006a5ceda04f7174a"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/nbody_red.c",
+    "path": "assignments/reference-tsp-nbody/support/nbody_red.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "fcdf159f5de1012421694f7316070844f8e6c25a33cbe7d6b0807daa0e04e3c5"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/omp_nbody_basic.c",
+    "path": "assignments/reference-tsp-nbody/support/omp_nbody_basic.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "93faa0133db5c03dce9f06614b67fda568a1192ad999482589038136f9fcde27"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/omp_nbody_red.c",
+    "path": "assignments/reference-tsp-nbody/support/omp_nbody_red.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "52acd4a591f815b46bb5d1694dca523aa703de62711a2ca005475c144a2eb22f"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/omp_tsp_dyn.c",
+    "path": "assignments/reference-tsp-nbody/support/omp_tsp_dyn.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "bdc950f7e1044a5d62be9228117abe4f2dbf3ddebcad402a772667f7e4f2a3fc"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/omp_tsp_stat.c",
+    "path": "assignments/reference-tsp-nbody/support/omp_tsp_stat.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "d5fbad95a9a41ea70518268dd6a270f43c03d5ef65b8701c3b199bd4e5c2e5f2"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/pth_nbody_basic.c",
+    "path": "assignments/reference-tsp-nbody/support/pth_nbody_basic.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "18b514dd87262f450b3d7152acbd421a91ff11dd37eefd6da48094395053bfda"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/pth_nbody_red.c",
+    "path": "assignments/reference-tsp-nbody/support/pth_nbody_red.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "717e7812970c43705117eadee6fcabf32cfe239fa95585526c763c7cb87b92d1"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/pth_tsp_dyn.c",
+    "path": "assignments/reference-tsp-nbody/support/pth_tsp_dyn.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "9bc775d8b9d197affb9220c49e528bb864880091aa88b5ce1ff09da14eb807df"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/pth_tsp_stat.c",
+    "path": "assignments/reference-tsp-nbody/support/pth_tsp_stat.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "90397845a45fefa0f8913c6540b424b87a33ce66a2cdb0bc0bc70f61db49d89c"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/timer.h",
+    "path": "assignments/reference-tsp-nbody/support/timer.h",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "84b40d184139ed242023260c5e885855281fa4d653002a5e62a09a590805920a"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/tsp_iter1.c",
+    "path": "assignments/reference-tsp-nbody/support/tsp_iter1.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "68238ac8f12bb103982853d2e8702f4ed7111cffc7c836c2d8647eb8b228ad38"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/tsp_iter2.c",
+    "path": "assignments/reference-tsp-nbody/support/tsp_iter2.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "5c7ed37f57d1c2a865d1d99689218b7a0c996e71d69af798548bf10c7b7d22dc"
   },
   {
-    "path": "course-support/mpi-tsp-nbody/tsp_rec.c",
+    "path": "assignments/reference-tsp-nbody/support/tsp_rec.c",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "02b26c9c403a562f9bcbba37d0741ad35df04fc8e96f54211c4dc6f10bfff58c"
   },
   {
-    "path": "course-support/cuda-eigenfaces/covariance.cu",
+    "path": "assignments/reference-cuda-eigenfaces/support/covariance.cu",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "2ef4d0416606a16c7faed70f34581b123398cde280a533174002ffbca6d0de3f"
   },
   {
-    "path": "course-support/cuda-eigenfaces/data/convert_images.py",
+    "path": "assignments/reference-cuda-eigenfaces/support/data/convert_images.py",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "f58500ef129ade25519495484f64f666d00d7dff929df03f58d0508dcbbde739"
   },
   {
-    "path": "course-support/cuda-eigenfaces/data/img_align_celeba/README.md",
+    "path": "assignments/reference-cuda-eigenfaces/support/data/img_align_celeba/README.md",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "3f1f16c1bc0c295d5afb035bad0fccb280487904d879e83cefdb1f85b6450a51"
   },
   {
-    "path": "course-support/cuda-eigenfaces/eigenfaces.cu",
+    "path": "assignments/reference-cuda-eigenfaces/support/eigenfaces.cu",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "6b47b9a35b6430acbd69568317ee78e019bdf5f764494690732a86e3dd012f31"
   },
   {
-    "path": "course-support/cuda-eigenfaces/Makefile.txt",
+    "path": "assignments/reference-cuda-eigenfaces/support/Makefile.txt",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "605ca1958028bce41f170bfb4e4451714cba00dc9a07ad0aa0bea2b07a009e79"
   },
   {
-    "path": "course-support/cuda-eigenfaces/mean_computation.cu",
+    "path": "assignments/reference-cuda-eigenfaces/support/mean_computation.cu",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "758b0295be30b14d5a6ffb883e313d8fbbf38648bd9961ad1d1efa03e1e7b2c7"
   },
   {
-    "path": "course-support/cuda-eigenfaces/mean_correction.cu",
+    "path": "assignments/reference-cuda-eigenfaces/support/mean_correction.cu",
     "category": "provided-code",
     "origin": "Course attachment source archive",
     "sha256": "5beaf9514c26a9b4b47cdea4bebf7be97042d668f811c60b001f56653dc509bd"
   },
   {
-    "path": "course-support/mpi-hello/mpi_hello.c",
+    "path": "assignments/reference-mpi-examples/support/hello-local/mpi_hello.c",
     "category": "unattributed-example",
     "origin": "Local MPI environment example; no claim of independent authorship",
     "sha256": "f422e0cfbdf89ab5efec5d703a5d0e679a5833c5e611aa2bb07f2cc4267c63a8"
@@ -1006,277 +1006,277 @@
     "sha256": "8855e626d918655b66fba198982fcf2c5876e3aeb6bf90befab33707a8d2b901"
   },
   {
-    "path": "final-cuda/starter/README.md",
+    "path": "final-cuda/support/starter/README.md",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "e3a3ffabfa21255d2fac2421200b2622bd79a1f51d4f48f17a91a16331169e4e"
   },
   {
-    "path": "final-cuda/starter/cloud_readme.md",
+    "path": "final-cuda/support/starter/cloud_readme.md",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "3fdc9394e5249ab0961fc142b8b76f29a94c8bd2937be2886f12ca16f78b52d3"
   },
   {
-    "path": "final-cuda/starter/create_submission.sh",
+    "path": "final-cuda/support/starter/create_submission.sh",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "904e948b6667869ca4e23d3e923fe94ccecc9cb84a527d7e76f2ee8dcc744ba7"
   },
   {
-    "path": "final-cuda/starter/handout/bug_example.jpg",
+    "path": "final-cuda/support/starter/handout/bug_example.jpg",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "eeb71f3e84bfdc724a9e4d961cb6ba24a6bc10124f108ba9cacd1135b7a7ec14"
   },
   {
-    "path": "final-cuda/starter/handout/dependencies.jpg",
+    "path": "final-cuda/support/starter/handout/dependencies.jpg",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "b1ca9c112f9c70274ccbd9c41e517d8da7b747072d9fd57d9f0c4e05b392bc01"
   },
   {
-    "path": "final-cuda/starter/handout/order.jpg",
+    "path": "final-cuda/support/starter/handout/order.jpg",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "cb39cac13d2bc57fa12f9d9093f43668f86f2721db5b69b1e790f04e26cd594d"
   },
   {
-    "path": "final-cuda/starter/handout/point_in_circle.jpg",
+    "path": "final-cuda/support/starter/handout/point_in_circle.jpg",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "43a8666d36a6cbdb0e5484560504b83ad5f884ca7eebdddb74809554924d9274"
   },
   {
-    "path": "final-cuda/starter/handout/teaser.jpg",
+    "path": "final-cuda/support/starter/handout/teaser.jpg",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "adea2dedf75ee7a5285952a069047bc433f9571bc4a66e8af6255bd992ee7aac"
   },
   {
-    "path": "final-cuda/starter/install.sh",
+    "path": "final-cuda/support/starter/install.sh",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "e03935ed3b24ab5765ec2af401c94fcdab52cd9d41b20ba838f3cddfde3caf54"
   },
   {
-    "path": "final-cuda/starter/render/Makefile",
+    "path": "final-cuda/support/starter/render/Makefile",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "678b0e38f0ff5f742885110b3c6c82a2d58294944d3b169251f1bc200d4c79c1"
   },
   {
-    "path": "final-cuda/starter/render/benchmark.cu",
+    "path": "final-cuda/support/starter/render/benchmark.cu",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "4212c7ce8e32ab5beeaf30e18278a2d36f0b37dcecf1bccaf57add48fd2ed7c1"
   },
   {
-    "path": "final-cuda/starter/render/checker.py",
+    "path": "final-cuda/support/starter/render/checker.py",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "206d01effd725ff8be6d665877bdd69c29720542dae071fed1d6c3b24109730e"
   },
   {
-    "path": "final-cuda/starter/render/circleBoxTest.cu_inl",
+    "path": "final-cuda/support/starter/render/circleBoxTest.cu_inl",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "ecfb8846dd531379443ce500b5e84bdcc1c06272318407480418ed5ec5b144c9"
   },
   {
-    "path": "final-cuda/starter/render/circleRenderer.h",
+    "path": "final-cuda/support/starter/render/circleRenderer.h",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "95734dffcc86f9b7b88984d1dff8a773b362001ebe6114d2a027b36cd23b33e6"
   },
   {
-    "path": "final-cuda/starter/render/cudaRenderer.cu",
+    "path": "final-cuda/support/starter/render/cudaRenderer.cu",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "ff99713d54640936b40c035290ecad1518ba57e42012c56cf5c047cfd816bd48"
   },
   {
-    "path": "final-cuda/starter/render/cudaRenderer.h",
+    "path": "final-cuda/support/starter/render/cudaRenderer.h",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "0a3bff8c460b1556312e15c30d157420938125e4c25cc9a9f9e6967efa31e235"
   },
   {
-    "path": "final-cuda/starter/render/cycleTimer.h",
+    "path": "final-cuda/support/starter/render/cycleTimer.h",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "5997061b95a7ac9ef6cb6aa4aabd55a53ca11cad2fe1d05a23c19a3b3104ebe9"
   },
   {
-    "path": "final-cuda/starter/render/display.cpp",
+    "path": "final-cuda/support/starter/render/display.cpp",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "8563674c8aa9be58774d8bd17e28ff2c3653cc5e662f35f6dc74323e399155f4"
   },
   {
-    "path": "final-cuda/starter/render/exclusiveScan.cu_inl",
+    "path": "final-cuda/support/starter/render/exclusiveScan.cu_inl",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "96ebe732adbf19e88797e9ad23de882e0f328f6311e7c829ca81c06a281a030d"
   },
   {
-    "path": "final-cuda/starter/render/image.h",
+    "path": "final-cuda/support/starter/render/image.h",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "70e473f178131d5e1198979246d653855155b8f1a3a530017ca55eb5c4201f22"
   },
   {
-    "path": "final-cuda/starter/render/lookupColor.cu_inl",
+    "path": "final-cuda/support/starter/render/lookupColor.cu_inl",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "8e935eb88a09e737947c1e9d8929786cd57b2cf4bb095343b885403219237067"
   },
   {
-    "path": "final-cuda/starter/render/main.cpp",
+    "path": "final-cuda/support/starter/render/main.cpp",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "53765aeb13cc0cbc88c60f1dd13c552641d7049a1567cef4a0dbfc9d9982fab0"
   },
   {
-    "path": "final-cuda/starter/render/noise.cpp",
+    "path": "final-cuda/support/starter/render/noise.cpp",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "cf2d42a42000558271e412a25c5b5b69a4fa02c7979bb093e1cd26631cc13401"
   },
   {
-    "path": "final-cuda/starter/render/noise.h",
+    "path": "final-cuda/support/starter/render/noise.h",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "14cafd561a0fa6a426721ec7c8803d64c649eb5e4a881963896d399b873677ef"
   },
   {
-    "path": "final-cuda/starter/render/noiseCuda.cu_inl",
+    "path": "final-cuda/support/starter/render/noiseCuda.cu_inl",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "57af076aea4d7118439c60e7932b5cdcc66435177091d0d2430f887423a0431b"
   },
   {
-    "path": "final-cuda/starter/render/platformgl.h",
+    "path": "final-cuda/support/starter/render/platformgl.h",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "f68798367a267ac51acda76adad1f3927c58c85ea36d4e415eaa5990d8e7dc7e"
   },
   {
-    "path": "final-cuda/starter/render/ppm.cpp",
+    "path": "final-cuda/support/starter/render/ppm.cpp",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "5f3cfe64972724bcfca099d39095189a008b5dd084f076e13512ab2675bd2c48"
   },
   {
-    "path": "final-cuda/starter/render/ppm.h",
+    "path": "final-cuda/support/starter/render/ppm.h",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "4cc15b1f78dfee94dd804f0256ff0248061728889b50cc4f94909e3c64d46b7f"
   },
   {
-    "path": "final-cuda/starter/render/refRenderer.cpp",
+    "path": "final-cuda/support/starter/render/refRenderer.cpp",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "d1a147a3e4375862652ab2df09e2c07c9835da87746679407dc423af5aa428f3"
   },
   {
-    "path": "final-cuda/starter/render/refRenderer.h",
+    "path": "final-cuda/support/starter/render/refRenderer.h",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "475dd8518e5678d55d7b20cf2500c26748c39f196a805ce89f5cae3d426dd727"
   },
   {
-    "path": "final-cuda/starter/render/refTimings.txt",
+    "path": "final-cuda/support/starter/render/refTimings.txt",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "bfd4a6ffe2a357c48bcc3d5bd90f68fee5da2ef8b133a70fe955ee8810ee530c"
   },
   {
-    "path": "final-cuda/starter/render/render_ref",
+    "path": "final-cuda/support/starter/render/render_ref",
     "category": "provided-reference-binary",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "83da39672e87fe0f580757fcce5e68a45401aa4b36a0f5f9fd5418ec6e34407e"
   },
   {
-    "path": "final-cuda/starter/render/sceneLoader.cpp",
+    "path": "final-cuda/support/starter/render/sceneLoader.cpp",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "9030edd941ee9da3290f07e34bc3a4e79e416dd2d852c0db43a7c07d7322ad6d"
   },
   {
-    "path": "final-cuda/starter/render/sceneLoader.h",
+    "path": "final-cuda/support/starter/render/sceneLoader.h",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "2f8654cff08c4fe78f9947bc14f90eeb4425ea051e6e87d1cf98754e721ab615"
   },
   {
-    "path": "final-cuda/starter/render/snow.par",
+    "path": "final-cuda/support/starter/render/snow.par",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "3090aa0f62de0aa6bf17943de6370dfd09acb839e90a5acc36204956784b32c2"
   },
   {
-    "path": "final-cuda/starter/render/util.h",
+    "path": "final-cuda/support/starter/render/util.h",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "2fde68d21a5b57d52089d28b9760adbfc2c5d0f0edbd1008ec53c7948032b77d"
   },
   {
-    "path": "final-cuda/starter/saxpy/CycleTimer.h",
+    "path": "final-cuda/support/starter/saxpy/CycleTimer.h",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "5997061b95a7ac9ef6cb6aa4aabd55a53ca11cad2fe1d05a23c19a3b3104ebe9"
   },
   {
-    "path": "final-cuda/starter/saxpy/Makefile",
+    "path": "final-cuda/support/starter/saxpy/Makefile",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "27c27ef968abd3ac88acc8a6f5f5530de48418e21fab3a64c0a26414b938debc"
   },
   {
-    "path": "final-cuda/starter/saxpy/main.cpp",
+    "path": "final-cuda/support/starter/saxpy/main.cpp",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "84d0f3cffeebce32c51528c339264b81aa3f187f8c47dafb4c6260881c6dea9b"
   },
   {
-    "path": "final-cuda/starter/saxpy/saxpy.cu",
+    "path": "final-cuda/support/starter/saxpy/saxpy.cu",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "e60a54e8eac5b10d79bd5531f45ef5542c79c1564d9cabc9baa9533c03c3f8b0"
   },
   {
-    "path": "final-cuda/starter/scan/CycleTimer.h",
+    "path": "final-cuda/support/starter/scan/CycleTimer.h",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "5997061b95a7ac9ef6cb6aa4aabd55a53ca11cad2fe1d05a23c19a3b3104ebe9"
   },
   {
-    "path": "final-cuda/starter/scan/Makefile",
+    "path": "final-cuda/support/starter/scan/Makefile",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "84c8a5ee1a7c8edcebfa7aecc8ff8b5af4ca5bec27ebd1cb1a0b66368667638e"
   },
   {
-    "path": "final-cuda/starter/scan/checker.pl",
+    "path": "final-cuda/support/starter/scan/checker.pl",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "1546b7f43ed5378be4d97cf35f650e9c329cb09f9b59cf4cf4bf302e7381eb97"
   },
   {
-    "path": "final-cuda/starter/scan/cudaScan_ref",
+    "path": "final-cuda/support/starter/scan/cudaScan_ref",
     "category": "provided-reference-binary",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "9942cc4d09978682026a168b0a8f55152e930c4a56a319440184d9b7eea1f580"
   },
   {
-    "path": "final-cuda/starter/scan/main.cpp",
+    "path": "final-cuda/support/starter/scan/main.cpp",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "ea84b5d3f0ed5ce058c6328cb4b875ba0a5289811986def1e9da7ec9e5dc1048"
   },
   {
-    "path": "final-cuda/starter/scan/scan.cu",
+    "path": "final-cuda/support/starter/scan/scan.cu",
     "category": "provided-code",
     "origin": "Stanford CS149 asst3 baseline fd0f70543f5dbe689b9bf8231ff385dfd35be097",
     "sha256": "2e9534faaad223b0fc009657baa273856b3fcb6f29f79c9659ddceae0b5dc3d6"
@@ -1333,7 +1333,7 @@
     "removed_local_links": 1
   },
   {
-    "path": "reports/cyk/report.pdf",
+    "path": "assignments/06-openmp-cyk/report.pdf",
     "category": "student-report",
     "origin": "Original OpenMP CYK report",
     "sha256": "688c23d728db34dd8c06363bf6f4018dd248f8737a18d876e7440358df9224b8",
@@ -1341,7 +1341,7 @@
     "removed_cover": true
   },
   {
-    "path": "reports/cuda/report.pdf",
+    "path": "final-cuda/report.pdf",
     "category": "student-report",
     "origin": "Original CUDA final report",
     "sha256": "6ac6e8d8f6e398068a81150396fef2b3ce6b6ca1626d658086aedd76d1464d59",
@@ -1349,211 +1349,211 @@
     "removed_cover": true
   },
   {
-    "path": "reports/cuda/source/report.tex",
+    "path": "final-cuda/report-source/report.tex",
     "category": "student-report-source",
     "origin": "Archived LaTeX report body; cover removed and font dependencies adapted",
     "sha256": "a5350f0bf4c7ebfc332df7c6328b73486cf0cfa3703ea56a1baac59ce56ecc69"
   },
   {
-    "path": "reports/cuda/source/include_picture/GA100_arch.png",
+    "path": "final-cuda/report-source/include_picture/GA100_arch.png",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "dff6f1fce94954e04224aaf8dc588ccba1dd654a4212bb83240c2d5c65debd2f"
   },
   {
-    "path": "reports/cuda/source/include_picture/render_result_2.png",
+    "path": "final-cuda/report-source/include_picture/render_result_2.png",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "3b2390bc7f29ef418bca792e8390ab5233f641644c1d024412c41c5d68286d76"
   },
   {
-    "path": "reports/cuda/source/include_picture/mem_info.png",
+    "path": "final-cuda/report-source/include_picture/mem_info.png",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "daf0effcf3fd36d577a9204b89d3a9980fc46f7069e0fc4ce162272957f50443"
   },
   {
-    "path": "reports/cuda/source/include_picture/peak_result.png",
+    "path": "final-cuda/report-source/include_picture/peak_result.png",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "b1cd4363b38153bd1d0fefa7548513697588f14c72f89a15a19458f10b9bc22b"
   },
   {
-    "path": "reports/cuda/source/include_picture/scan_result.png",
+    "path": "final-cuda/report-source/include_picture/scan_result.png",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "293ebda5254c5ebccc3ee5d458440e3c84b908f36e2bbc761f439b6132ef331e"
   },
   {
-    "path": "reports/cuda/source/include_picture/GA100_SMarch.png",
+    "path": "final-cuda/report-source/include_picture/GA100_SMarch.png",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "a9bbebd83cf2cbd09bbf0eb7c6eb8f6de4b01d23110f8beb976cc15bb3cdef74"
   },
   {
-    "path": "reports/cuda/source/include_picture/gpu_info.png",
+    "path": "final-cuda/report-source/include_picture/gpu_info.png",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "0963f340c37b2ed57598066b7c684ef494ef683656416b65f77e7437a049a128"
   },
   {
-    "path": "reports/cuda/source/include_picture/render_result_1.png",
+    "path": "final-cuda/report-source/include_picture/render_result_1.png",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "2d6a64729c3e630853e95e88621bbe79df48a4de620ad618a95789d5ee00e9d1"
   },
   {
-    "path": "reports/cuda/source/include_picture/bus_info.png",
+    "path": "final-cuda/report-source/include_picture/bus_info.png",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "fd13f98840274a0631ae54426a1eb160e3f7cb4784a1e1014ace8f758f7d30a1"
   },
   {
-    "path": "reports/cuda/source/include_picture/render_result_4.png",
+    "path": "final-cuda/report-source/include_picture/render_result_4.png",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "1fed4f6c2d833d96ce546af2825379fa5a1131e6757cb5545eee1f7632c9bb38"
   },
   {
-    "path": "reports/cuda/source/include_picture/scan_algo.png",
+    "path": "final-cuda/report-source/include_picture/scan_algo.png",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "daa5946487ea7e5a66de94087b0c7b88ab0dbcc56045ce086e8ffed72f44ebd5"
   },
   {
-    "path": "reports/cuda/source/include_picture/peak_algo.png",
+    "path": "final-cuda/report-source/include_picture/peak_algo.png",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "fa3d0a889fdad17b4aedc80c0542908bf5a71fde022948d799a255e0eb8ce9f4"
   },
   {
-    "path": "reports/cuda/source/include_picture/render_result_3.png",
+    "path": "final-cuda/report-source/include_picture/render_result_3.png",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "2d476faa7a525b84d0cea0b83e1855bdc4032abca284ab86768a9b1936e60a2c"
   },
   {
-    "path": "reports/cuda/source/include_picture/saxpy_result.png",
+    "path": "final-cuda/report-source/include_picture/saxpy_result.png",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "18f06690614e79e558fcad64d227f55fb02378a637cfe668bccac5a780bef3f7"
   },
   {
-    "path": "reports/cuda/source/include_picture/CUDA_mem.png",
+    "path": "final-cuda/report-source/include_picture/CUDA_mem.png",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "e4e10b5cda4df06cd9f366c391255d9fd20389241a5ccf3d05ee62535dd37e65"
   },
   {
-    "path": "reports/cuda/source/include_picture/spd_info.png",
+    "path": "final-cuda/report-source/include_picture/spd_info.png",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "d7cd2dde6c5cbaff9e8b911d3eda9e8590a3a22f3c66dc78d0ba3a7bdafa1864"
   },
   {
-    "path": "reports/cuda/source/include_picture/flow.jpg",
+    "path": "final-cuda/report-source/include_picture/flow.jpg",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "ebd42afc5f689906799b8d252559acc910b63ad1b3173f334e7424f7b03a256d"
   },
   {
-    "path": "reports/cuda/source/gbt7714.sty",
+    "path": "final-cuda/report-source/gbt7714.sty",
     "category": "report-template-support",
     "origin": "Original report template / bibliography dependency; notices retained",
     "sha256": "a481cb66a32d6169ded463bde57cca8d7def1e4680ebe9e2e662c01108537e1b"
   },
   {
-    "path": "reports/cuda/source/gbt7714-numerical.bst",
+    "path": "final-cuda/report-source/gbt7714-numerical.bst",
     "category": "report-template-support",
     "origin": "Original report template / bibliography dependency; notices retained",
     "sha256": "dbf8086664f5030913b83ab2e8add0b95b916d62c9f70e3192a5704fe9764fde"
   },
   {
-    "path": "reports/cuda/source/gbt7714-author-year.bst",
+    "path": "final-cuda/report-source/gbt7714-author-year.bst",
     "category": "report-template-support",
     "origin": "Original report template / bibliography dependency; notices retained",
     "sha256": "3b0753310c397e7c24d62ebe2ca83c3bd726bb777cfb72adaa4993979c13ee69"
   },
   {
-    "path": "reports/cuda/source/library.bib",
+    "path": "final-cuda/report-source/library.bib",
     "category": "report-template-support",
     "origin": "Original report template / bibliography dependency; notices retained",
     "sha256": "e15efffddaa982ca8fc080a959883e36972be3d80867c34dd0c77d341d6af1c8"
   },
   {
-    "path": "reports/cuda/source/references.bib",
+    "path": "final-cuda/report-source/references.bib",
     "category": "report-template-support",
     "origin": "Original report template / bibliography dependency; notices retained",
     "sha256": "2dc146982f73b10e24b2146f9c47f8f9f47f62f2b0e966a1367fd6b06c1d4556"
   },
   {
-    "path": "reports/cyk/source/report.tex",
+    "path": "assignments/06-openmp-cyk/report-source/report.tex",
     "category": "student-report-source",
     "origin": "Archived LaTeX report body; cover removed and font dependencies adapted",
     "sha256": "5aae7ea1c0cc3f59567985357cc22c70c3a1a8405fc41aba9f2e567955f6019f"
   },
   {
-    "path": "reports/cyk/source/include_picture/time.jpg",
+    "path": "assignments/06-openmp-cyk/report-source/include_picture/time.jpg",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "0d8b36a3de50c0f20bcfec7aa730e06025fd4812444b9e77f57ebc856165a787"
   },
   {
-    "path": "reports/cyk/source/include_picture/table.png",
+    "path": "assignments/06-openmp-cyk/report-source/include_picture/table.png",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "0bba1d3bfa368af605c73d718f4800acca7b6b658509e43f915045e617223cd3"
   },
   {
-    "path": "reports/cyk/source/include_picture/rate.jpg",
+    "path": "assignments/06-openmp-cyk/report-source/include_picture/rate.jpg",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "e26b0289f4a9721e32961834bf5fe8b6e49475b19cd6d073a3a413835193de18"
   },
   {
-    "path": "reports/cyk/source/include_picture/code.png",
+    "path": "assignments/06-openmp-cyk/report-source/include_picture/code.png",
     "category": "report-illustration",
     "origin": "Original report figure; not independently image-reviewed",
     "sha256": "18647f8316b378d54e5b23727fe02057d81303f865f6b8df8997ab1d946065c8"
   },
   {
-    "path": "reports/cyk/source/gbt7714.sty",
+    "path": "assignments/06-openmp-cyk/report-source/gbt7714.sty",
     "category": "report-template-support",
     "origin": "Original report template / bibliography dependency; notices retained",
     "sha256": "a481cb66a32d6169ded463bde57cca8d7def1e4680ebe9e2e662c01108537e1b"
   },
   {
-    "path": "reports/cyk/source/gbt7714-numerical.bst",
+    "path": "assignments/06-openmp-cyk/report-source/gbt7714-numerical.bst",
     "category": "report-template-support",
     "origin": "Original report template / bibliography dependency; notices retained",
     "sha256": "dbf8086664f5030913b83ab2e8add0b95b916d62c9f70e3192a5704fe9764fde"
   },
   {
-    "path": "reports/cyk/source/gbt7714-author-year.bst",
+    "path": "assignments/06-openmp-cyk/report-source/gbt7714-author-year.bst",
     "category": "report-template-support",
     "origin": "Original report template / bibliography dependency; notices retained",
     "sha256": "3b0753310c397e7c24d62ebe2ca83c3bd726bb777cfb72adaa4993979c13ee69"
   },
   {
-    "path": "reports/cyk/source/library.bib",
+    "path": "assignments/06-openmp-cyk/report-source/library.bib",
     "category": "report-template-support",
     "origin": "Original report template / bibliography dependency; notices retained",
     "sha256": "e15efffddaa982ca8fc080a959883e36972be3d80867c34dd0c77d341d6af1c8"
   },
   {
-    "path": "reports/cyk/source/references.bib",
+    "path": "assignments/06-openmp-cyk/report-source/references.bib",
     "category": "report-template-support",
     "origin": "Original report template / bibliography dependency; notices retained",
     "sha256": "2dc146982f73b10e24b2146f9c47f8f9f47f62f2b0e966a1367fd6b06c1d4556"
   },
   {
-    "path": "reports/cyk/experiment-data.xlsx",
+    "path": "assignments/06-openmp-cyk/experiment-data.xlsx",
     "category": "student-experiment-data",
     "origin": "Original CYK measurement workbook; identity metadata cleared",
     "sha256": "06c2bdc61a82cc4c8d2e123d6eaf44f9c9adc8a6437cb593ec3f5d092ba0851a"
   },
   {
-    "path": "reports/cuda/algorithm-diagrams.pptx",
+    "path": "final-cuda/algorithm-diagrams.pptx",
     "category": "student-report-illustration",
     "origin": "Local editable algorithm figure deck; author metadata cleared",
     "sha256": "ec2e690c247b0acd903d15034aa70e8e27108fe85466eb7fc68cf52746020d10"

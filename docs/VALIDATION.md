@@ -32,3 +32,11 @@ make openmp OMP_FLAGS='-Xpreprocessor -fopenmp -I/opt/homebrew/opt/libomp/includ
 - 当前环境未提供 MPI 编译器和 NVIDIA CUDA 工具链/GPU，因此 MPI、CUDA 未重新编译运行；保留原报告结果，但不将其写作本次复现实测。
 
 两份 LaTeX 报告归档源码没有重新编译；输出 PDF 来自原提交，删除封面并清除元数据，不由新构建生成。
+
+## 任务目录重组验证
+
+- 原报告、要求、源码、配图、数据与参考二进制只移动位置，材料清单中所有文件 SHA-256 保持一致。
+- 报告放在对应任务中，辅助资料放在对应任务的 `support/`；根目录不再有独立 `reports/` 或 `course-support/`。
+- 通用课程例程归入明确标注的 `assignments/reference-*` 参考主题，不标为学生独立课设。
+- 更新 README、来源说明、忽略规则与材料清单路径；检查相对链接、报告插图引用和 Makefile 路径。
+- 本次没有修改程序或报告内容，不重复运行此前已完成的程序测试，也不重新编译报告。

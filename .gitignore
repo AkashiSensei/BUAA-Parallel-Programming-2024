@@ -9,9 +9,9 @@ logs/
 final-cuda/code/saxpy/cudaSaxpy
 final-cuda/code/scan/cudaScan
 final-cuda/code/render/render
-final-cuda/starter/saxpy/cudaSaxpy
-final-cuda/starter/scan/cudaScan
-final-cuda/starter/render/render
+final-cuda/support/starter/saxpy/cudaSaxpy
+final-cuda/support/starter/scan/cudaScan
+final-cuda/support/starter/render/render
 *.aux
 *.log
 *.toc

@@ -15,16 +15,40 @@
 | [CYK 算法并行化](assignments/06-openmp-cyk/) | OpenMP | 在课程串行参考程序上完成并行化；输入样例、原始计时脚本、报告和实验数据 |
 | [CUDA 大作业](final-cuda/) | CUDA | 基于 Stanford CS149 Assignment 3 框架完成 SAXPY、并行前缀和/重复元素查找、圆形渲染；原始框架、实现、中文说明和报告 |
 
-目录编号跟随本地作业说明。没有找到单独的第 4 次作业提交；`作业/sort` 中两份奇偶排序程序与课程提供的 MPI 示例完全相同，已归入 [课程辅助代码](course-support/mpi/)，不计作自写课设。
+目录编号跟随本地作业说明。没有找到单独的第 4 次作业提交；`作业/sort` 中两份奇偶排序程序与课程提供的 MPI 示例完全相同，已归入 [MPI 参考任务的辅助代码](assignments/reference-mpi-examples/support/chapter3/)，不计作自写课设。
+
+## 文件结构
+
+```text
+assignments/
+  01-mpi-pi/                   # requirements.pdf + src/
+  02-mpi-md5/                  # requirements.pdf + src/ + support/
+  03-pthreads-integration/     # requirements.pdf + src/
+  05-pthreads-task-queue/      # requirements.pdf + src/
+  06-openmp-cyk/               # 要求、实现、support/、report.pdf、report-source/、实验数据
+  reference-*/                 # 课程参考主题，各自包含 support/ 和来源说明
+  REFERENCE-MATERIALS.md       # 课程参考主题索引
+final-cuda/
+  code/                       # 完整提交工程
+  support/starter/            # 上游原始框架
+  docs/                       # 作业要求译文、AWS 说明及配图
+  report.pdf                  # 已删除身份封面的原报告
+  report-source/              # 报告 LaTeX 与正文配图
+  algorithm-diagrams.pptx     # 原算法图示
+notes/                        # 理论作业笔记
+docs/                         # 整个仓库的来源、脱敏、验证及材料清单
+README.md
+Makefile
+```
 
 ## 实现、框架与课程材料的边界
 
 - `assignments/*/src/`：原课程提交实现；CYK 的基础数据结构与串行逻辑来自课程参考程序。
 - `assignments/*/support/`：课程提供的库、串行实现、驱动或测试输入。
 - `final-cuda/code/`：完整 CUDA 提交工程；**其中课程框架占有相当部分**，不能将整个目录视为从零编写。
-- `final-cuda/starter/`：原始 Stanford CS149 框架，用于对照实现改动。
-- `course-support/`：课程或教材示例，包括 MPI、Pthreads、OpenMP、TSP/N-body 和 CUDA eigenfaces；不属于作者独立开发成果。
-- `reports/`、`notes/`：原始报告、实验数据、算法图示和理论作业笔记。报告中的结论与性能数据属于当时实验记录。
+- `final-cuda/support/starter/`：原始 Stanford CS149 框架，用于对照实现改动。
+- `assignments/reference-*/support/`：按参考任务主题归档的课程或教材示例；这些目录没有学生独立实现，不属于作者独立开发成果。详见 [参考材料索引](assignments/REFERENCE-MATERIALS.md)。
+- 报告、实验数据和算法图示放在对应任务目录中，报告源码及配图放在该任务的 `report-source/`；`notes/` 保存理论作业笔记。报告中的结论与性能数据属于当时实验记录。
 
 CUDA 框架基线来自 [stanford-cs149/asst3](https://github.com/stanford-cs149/asst3/tree/fd0f70543f5dbe689b9bf8231ff385dfd35be097)，提交 `fd0f70543f5dbe689b9bf8231ff385dfd35be097`。本地最后提交为 `67c033a95fc7887e240d4dab7d3c715a7fdc6b41`（2024-06-09）。与基线相比，仅以下三个实现文件发生功能性修改：
 
@@ -38,12 +62,12 @@ CUDA 框架基线来自 [stanford-cs149/asst3](https://github.com/stanford-cs149
 
 ## 报告
 
-- [OpenMP CYK 报告](reports/cyk/report.pdf)：原 15 页，移除身份封面后 14 页。
-- [CUDA 大作业报告](reports/cuda/report.pdf)：原 28 页，移除身份封面后 27 页。
-- [CYK 原始实验数据](reports/cyk/experiment-data.xlsx)。
-- [CUDA 算法图示](reports/cuda/algorithm-diagrams.pptx)。
+- [OpenMP CYK 报告](assignments/06-openmp-cyk/report.pdf)：原 15 页，移除身份封面后 14 页。
+- [CUDA 大作业报告](final-cuda/report.pdf)：原 28 页，移除身份封面后 27 页。
+- [CYK 原始实验数据](assignments/06-openmp-cyk/experiment-data.xlsx)。
+- [CUDA 算法图示](final-cuda/algorithm-diagrams.pptx)。
 
-两份报告同时保留 `source/` 下的 LaTeX 源码和正文引用的原始配图。PDF 沿用原正文，不重新排版；LaTeX 源码删除身份封面，字体依赖改为 TeX Live 常见字体，未附带原来的商业字体文件。归档源码未重新编译，编译所得版式可能与原 PDF 不同。
+两份报告分别在对应任务的 `report-source/` 下保留 LaTeX 源码和正文引用的原始配图。PDF 沿用原正文，不重新排版；LaTeX 源码删除身份封面，字体依赖改为 TeX Live 常见字体，未附带原来的商业字体文件。归档源码未重新编译，编译所得版式可能与原 PDF 不同。
 
 ## 构建与运行
 
